@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syeda-Farhat
-- 👀 I’m interested in JS
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning ReactJS 
 - 📫 How to reach me 
 
