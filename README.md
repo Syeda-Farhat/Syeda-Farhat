@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syeda-Farhat
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning Data Science  
 - 📫 How to reach me 
 
 <!---
